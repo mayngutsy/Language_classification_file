@@ -1,6 +1,6 @@
-sample_submission
-submission
-test_set
-train_set
+sample_submission.csv
+submission.csv
+test_set.csv
+train_set.csv
 .ipynb_checkpoints/
 train_set_data/
